@@ -116,7 +116,6 @@ article:hover .flip-card-inner {
     background-color: rgb(54, 107, 18);
     color: white;
     transform: rotateY(180deg);
-    display: inline-block;
   }
 .ns{
     float: left;
