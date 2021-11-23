@@ -34,7 +34,8 @@ nav{
     background-color:rgb(65, 92, 11);
     position: -webkit-sticky;
 	position: sticky;
-	top: 0;
+    top: 0;
+    z-index: 1;
 }
 aside img{
     width: 90%;
@@ -102,16 +103,20 @@ article:hover .flip-card-inner {
     transform: rotateY(180deg);
 }
 .flip-card-front, .flip-card-back {
-    position: relative;
     width: 100%;
     height: 100%;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
+.flip-card-front{
+    position: relative;
+}
 .flip-card-back {
+    position: relative;
     background-color: rgb(54, 107, 18);
     color: white;
     transform: rotateY(180deg);
+    display: inline-block;
   }
 .ns{
     float: left;
