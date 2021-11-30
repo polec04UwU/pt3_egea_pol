@@ -110,13 +110,16 @@ article{
     margin-top: 1%;
     margin-bottom: 1%;
 }
-.artprin h2,h3,h4{
+.artprin h3,.artprin h4{
     font-family: 'Indie Flower', cursive;
     font-size: 26px;
-    text-align: center;
+    text-align: left;
 }
 .artprin h2{
     font-size: 32px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    margin-top: 3%;
 }
 li{
     
