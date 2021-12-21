@@ -6,13 +6,15 @@
   <h2>Receptes</h2>
   <table border="1">
     <tr bgcolor="#9acd32">
-      <th style="text-align:left">Title</th>
-      <th style="text-align:left">Artist</th>
+      <th style="text-align:left">Nom</th>
+      <th style="text-align:left">Duració</th>
+      <th style="text-align:left">Resum</th>
     </tr>
     <xsl:for-each select="catalog/cd">
     <tr>
       <td><xsl:value-of select="title"/></td>
-      <td><xsl:value-of select="artist"/></td>
+      <td><xsl:value-of select="time"/></td>
+      <td><xsl:value-of select="resum"/></td>
     </tr>
     </xsl:for-each>
   </table>
