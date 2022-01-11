@@ -4,26 +4,481 @@
   <cd>
     <title>Crema Catalana</title>
     <time>90"</time>
+    <ingredient>
+    <ingredients>1l de leche entera</ingredients>
+    <ingredients>8 yemas de huevo</ingredients>
+    <ingredients>100g de azucar</ingredients>
+    <ingredients>20g de maicena</ingredients>
+    <ingredients>Azucar para caramelizar</ingredients>
+    <ingredients>1 canela en rama</ingredients>
+    </ingredient>
     <resum>La crema catalana o crema quemada es una especie de crema pastelera o natilla con una costra crujiente a base de azúcar caramelizado. Dice la leyenda que su invención fue como otros muchos postres debido a un error, cuando en un convento unas monjas quisieron hacer un flan para un obispo que las iba a visitar y como suele ocurrir en algunas ocasiones, no les quedo bien cuajado.</resum>
   </cd>
   <cd>
     <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
     <time>20"</time>
+    <ingredient>
+    <ingredients>4 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla hermosa</ingredients>
+    <ingredients>4 dientes de ajo</ingredients>
+    <ingredients>500g de coliflor</ingredients>
+    <ingredients>2 tazas de caldo vegetal</ingredients>
+    <ingredients>2 cucharadas de levadura nutricional</ingredients>
+    <ingredients>½ taza de leche de almendras</ingredients>
+    <ingredients>sal</ingredients>
+    </ingredient>
     <resum>Hoy te propongo una deliciosa pasta con salsa de coliflor y pimienta de Jamaica, un plato completamente vegetal y saludable, que yo he preparado con pasta integral de espelta, pero que tú puedes preparar con tu pasta favorita… porque esta salsa combina con cualquiera!</resum>
   </cd>
   <cd>
     <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
     <time>90"</time>
+    <ingredient>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla grande</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>300 g de boniato pelado</ingredients>
+    <ingredients>300 g de coliflor (parte blanca, sin el tronco)</ingredients>
+    <ingredients>500 ml de agua</ingredients>
+    <ingredients>1/2 taza de mijo</ingredients>
+    <ingredients>1/2 taza de lentejas rojas partidas</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>1 cucharadita de sal</ingredients>
+    <ingredients>5 o 6 setas shiitake (unos 100 g)</ingredients>
+    <ingredients>1 taza de leche de almendras sin endulzar</ingredients>
+    <ingredients>1/2 cucharadita de curry en polvo</ingredients>
+    </ingredient>
     <resum>Uno de sus ingredientes principales, el mijo, es un cereal con un sabor muy suave, que utilizo mucho tanto en platos salados como dulces. Es perfecto para tomarlo en épocas frías, ya que según la medicina tradicional china, es un alimento de naturaleza caliente, y eso significa que al tomarlo, nos aportará calorcito y nos templará el cuerpo.</resum>
   </cd>
   <cd>
     <title>Calabacines rellenos de arroz negro y calabaza</title>
     <time>120"</time>
+    <ingredient>
+    <ingredients>2 calabacines medianos</ingredients>
+    <ingredients>1  cebolla mediana</ingredients>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 diente de ajo</ingredients>
+    <ingredients>½ de cucharadita de canela en polvo</ingredients>
+    <ingredients>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredients>
+    <ingredients>1 taza de arroz negro cocido</ingredients>
+    <ingredients>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredients>
+    <ingredients>sal al gusto</ingredients>
+    <ingredients>Queso mozzarella y parmesano rallado al gusto</ingredients>
+    </ingredient>
     <resum>El calabacín es una verdura de sabor muy suave como la berenjena, que admite múltiples rellenos. En este caso lo he rellenado de otra hortaliza de temporada, la calabaza, deliciosamente dulce, y de arroz negro o venere.</resum>
   </cd>
   <cd>
     <title>Galletas de avena, rosa y lima</title>
     <time>180"</time>
+    <ingredient>
+    <ingredients>3/4 taza de harina de avena (80g)</ingredients>
+    <ingredients>1/4 taza de azúcar de coco</ingredients>
+    <ingredients>1/2 cucharada de semillas de lino triturado</ingredients>
+    <ingredients>2 cucharadas de agua</ingredients>
+    <ingredients>4 gotas de esencia de rosa</ingredients>
+    <ingredients>40ml de aceite de oliva virgen extra</ingredients>
+    <ingredients>1/2 lima rallada (solo la piel)</ingredients>
+    <ingredients>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredients>
+    </ingredient>
+    <resum>Son galletas integrales, elaboradas con harina de avena, que he rellenado con una mermelada rápida de frutos rojos, para poder darle ese toque especial.</resum>
+  </cd>
+  <cd>
+    <title>Crema Catalana</title>
+    <time>90"</time>
+    <ingredient>
+    <ingredients>1l de leche entera</ingredients>
+    <ingredients>8 yemas de huevo</ingredients>
+    <ingredients>100g de azucar</ingredients>
+    <ingredients>20g de maicena</ingredients>
+    <ingredients>Azucar para caramelizar</ingredients>
+    <ingredients>1 canela en rama</ingredients>
+    </ingredient>
+    <resum>La crema catalana o crema quemada es una especie de crema pastelera o natilla con una costra crujiente a base de azúcar caramelizado. Dice la leyenda que su invención fue como otros muchos postres debido a un error, cuando en un convento unas monjas quisieron hacer un flan para un obispo que las iba a visitar y como suele ocurrir en algunas ocasiones, no les quedo bien cuajado.</resum>
+  </cd>
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <time>20"</time>
+    <ingredient>
+    <ingredients>4 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla hermosa</ingredients>
+    <ingredients>4 dientes de ajo</ingredients>
+    <ingredients>500g de coliflor</ingredients>
+    <ingredients>2 tazas de caldo vegetal</ingredients>
+    <ingredients>2 cucharadas de levadura nutricional</ingredients>
+    <ingredients>½ taza de leche de almendras</ingredients>
+    <ingredients>sal</ingredients>
+    </ingredient>
+    <resum>Hoy te propongo una deliciosa pasta con salsa de coliflor y pimienta de Jamaica, un plato completamente vegetal y saludable, que yo he preparado con pasta integral de espelta, pero que tú puedes preparar con tu pasta favorita… porque esta salsa combina con cualquiera!</resum>
+  </cd>
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <time>90"</time>
+    <ingredient>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla grande</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>300 g de boniato pelado</ingredients>
+    <ingredients>300 g de coliflor (parte blanca, sin el tronco)</ingredients>
+    <ingredients>500 ml de agua</ingredients>
+    <ingredients>1/2 taza de mijo</ingredients>
+    <ingredients>1/2 taza de lentejas rojas partidas</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>1 cucharadita de sal</ingredients>
+    <ingredients>5 o 6 setas shiitake (unos 100 g)</ingredients>
+    <ingredients>1 taza de leche de almendras sin endulzar</ingredients>
+    <ingredients>1/2 cucharadita de curry en polvo</ingredients>
+    </ingredient>
+    <resum>Uno de sus ingredientes principales, el mijo, es un cereal con un sabor muy suave, que utilizo mucho tanto en platos salados como dulces. Es perfecto para tomarlo en épocas frías, ya que según la medicina tradicional china, es un alimento de naturaleza caliente, y eso significa que al tomarlo, nos aportará calorcito y nos templará el cuerpo.</resum>
+  </cd>
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <time>120"</time>
+    <ingredient>
+    <ingredients>2 calabacines medianos</ingredients>
+    <ingredients>1  cebolla mediana</ingredients>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 diente de ajo</ingredients>
+    <ingredients>½ de cucharadita de canela en polvo</ingredients>
+    <ingredients>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredients>
+    <ingredients>1 taza de arroz negro cocido</ingredients>
+    <ingredients>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredients>
+    <ingredients>sal al gusto</ingredients>
+    <ingredients>Queso mozzarella y parmesano rallado al gusto</ingredients>
+    </ingredient>
+    <resum>El calabacín es una verdura de sabor muy suave como la berenjena, que admite múltiples rellenos. En este caso lo he rellenado de otra hortaliza de temporada, la calabaza, deliciosamente dulce, y de arroz negro o venere.</resum>
+  </cd>
+  <cd>
+    <title>Galletas de avena, rosa y lima</title>
+    <time>180"</time>
+    <ingredient>
+    <ingredients>3/4 taza de harina de avena (80g)</ingredients>
+    <ingredients>1/4 taza de azúcar de coco</ingredients>
+    <ingredients>1/2 cucharada de semillas de lino triturado</ingredients>
+    <ingredients>2 cucharadas de agua</ingredients>
+    <ingredients>4 gotas de esencia de rosa</ingredients>
+    <ingredients>40ml de aceite de oliva virgen extra</ingredients>
+    <ingredients>1/2 lima rallada (solo la piel)</ingredients>
+    <ingredients>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredients>
+    </ingredient>
+    <resum>Son galletas integrales, elaboradas con harina de avena, que he rellenado con una mermelada rápida de frutos rojos, para poder darle ese toque especial.</resum>
+  </cd>
+  <cd>
+    <title>Crema Catalana</title>
+    <time>90"</time>
+    <ingredient>
+    <ingredients>1l de leche entera</ingredients>
+    <ingredients>8 yemas de huevo</ingredients>
+    <ingredients>100g de azucar</ingredients>
+    <ingredients>20g de maicena</ingredients>
+    <ingredients>Azucar para caramelizar</ingredients>
+    <ingredients>1 canela en rama</ingredients>
+    </ingredient>
+    <resum>La crema catalana o crema quemada es una especie de crema pastelera o natilla con una costra crujiente a base de azúcar caramelizado. Dice la leyenda que su invención fue como otros muchos postres debido a un error, cuando en un convento unas monjas quisieron hacer un flan para un obispo que las iba a visitar y como suele ocurrir en algunas ocasiones, no les quedo bien cuajado.</resum>
+  </cd>
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <time>20"</time>
+    <ingredient>
+    <ingredients>4 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla hermosa</ingredients>
+    <ingredients>4 dientes de ajo</ingredients>
+    <ingredients>500g de coliflor</ingredients>
+    <ingredients>2 tazas de caldo vegetal</ingredients>
+    <ingredients>2 cucharadas de levadura nutricional</ingredients>
+    <ingredients>½ taza de leche de almendras</ingredients>
+    <ingredients>sal</ingredients>
+    </ingredient>
+    <resum>Hoy te propongo una deliciosa pasta con salsa de coliflor y pimienta de Jamaica, un plato completamente vegetal y saludable, que yo he preparado con pasta integral de espelta, pero que tú puedes preparar con tu pasta favorita… porque esta salsa combina con cualquiera!</resum>
+  </cd>
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <time>90"</time>
+    <ingredient>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla grande</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>300 g de boniato pelado</ingredients>
+    <ingredients>300 g de coliflor (parte blanca, sin el tronco)</ingredients>
+    <ingredients>500 ml de agua</ingredients>
+    <ingredients>1/2 taza de mijo</ingredients>
+    <ingredients>1/2 taza de lentejas rojas partidas</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>1 cucharadita de sal</ingredients>
+    <ingredients>5 o 6 setas shiitake (unos 100 g)</ingredients>
+    <ingredients>1 taza de leche de almendras sin endulzar</ingredients>
+    <ingredients>1/2 cucharadita de curry en polvo</ingredients>
+    </ingredient>
+    <resum>Uno de sus ingredientes principales, el mijo, es un cereal con un sabor muy suave, que utilizo mucho tanto en platos salados como dulces. Es perfecto para tomarlo en épocas frías, ya que según la medicina tradicional china, es un alimento de naturaleza caliente, y eso significa que al tomarlo, nos aportará calorcito y nos templará el cuerpo.</resum>
+  </cd>
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <time>120"</time>
+    <ingredient>
+    <ingredients>2 calabacines medianos</ingredients>
+    <ingredients>1  cebolla mediana</ingredients>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 diente de ajo</ingredients>
+    <ingredients>½ de cucharadita de canela en polvo</ingredients>
+    <ingredients>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredients>
+    <ingredients>1 taza de arroz negro cocido</ingredients>
+    <ingredients>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredients>
+    <ingredients>sal al gusto</ingredients>
+    <ingredients>Queso mozzarella y parmesano rallado al gusto</ingredients>
+    </ingredient>
+    <resum>El calabacín es una verdura de sabor muy suave como la berenjena, que admite múltiples rellenos. En este caso lo he rellenado de otra hortaliza de temporada, la calabaza, deliciosamente dulce, y de arroz negro o venere.</resum>
+  </cd>
+  <cd>
+    <title>Galletas de avena, rosa y lima</title>
+    <time>180"</time>
+    <ingredient>
+    <ingredients>3/4 taza de harina de avena (80g)</ingredients>
+    <ingredients>1/4 taza de azúcar de coco</ingredients>
+    <ingredients>1/2 cucharada de semillas de lino triturado</ingredients>
+    <ingredients>2 cucharadas de agua</ingredients>
+    <ingredients>4 gotas de esencia de rosa</ingredients>
+    <ingredients>40ml de aceite de oliva virgen extra</ingredients>
+    <ingredients>1/2 lima rallada (solo la piel)</ingredients>
+    <ingredients>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredients>
+    </ingredient>
+    <resum>Son galletas integrales, elaboradas con harina de avena, que he rellenado con una mermelada rápida de frutos rojos, para poder darle ese toque especial.</resum>
+  </cd>
+  <cd>
+    <title>Crema Catalana</title>
+    <time>90"</time>
+    <ingredient>
+    <ingredients>1l de leche entera</ingredients>
+    <ingredients>8 yemas de huevo</ingredients>
+    <ingredients>100g de azucar</ingredients>
+    <ingredients>20g de maicena</ingredients>
+    <ingredients>Azucar para caramelizar</ingredients>
+    <ingredients>1 canela en rama</ingredients>
+    </ingredient>
+    <resum>La crema catalana o crema quemada es una especie de crema pastelera o natilla con una costra crujiente a base de azúcar caramelizado. Dice la leyenda que su invención fue como otros muchos postres debido a un error, cuando en un convento unas monjas quisieron hacer un flan para un obispo que las iba a visitar y como suele ocurrir en algunas ocasiones, no les quedo bien cuajado.</resum>
+  </cd>
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <time>20"</time>
+    <ingredient>
+    <ingredients>4 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla hermosa</ingredients>
+    <ingredients>4 dientes de ajo</ingredients>
+    <ingredients>500g de coliflor</ingredients>
+    <ingredients>2 tazas de caldo vegetal</ingredients>
+    <ingredients>2 cucharadas de levadura nutricional</ingredients>
+    <ingredients>½ taza de leche de almendras</ingredients>
+    <ingredients>sal</ingredients>
+    </ingredient>
+    <resum>Hoy te propongo una deliciosa pasta con salsa de coliflor y pimienta de Jamaica, un plato completamente vegetal y saludable, que yo he preparado con pasta integral de espelta, pero que tú puedes preparar con tu pasta favorita… porque esta salsa combina con cualquiera!</resum>
+  </cd>
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <time>90"</time>
+    <ingredient>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla grande</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>300 g de boniato pelado</ingredients>
+    <ingredients>300 g de coliflor (parte blanca, sin el tronco)</ingredients>
+    <ingredients>500 ml de agua</ingredients>
+    <ingredients>1/2 taza de mijo</ingredients>
+    <ingredients>1/2 taza de lentejas rojas partidas</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>1 cucharadita de sal</ingredients>
+    <ingredients>5 o 6 setas shiitake (unos 100 g)</ingredients>
+    <ingredients>1 taza de leche de almendras sin endulzar</ingredients>
+    <ingredients>1/2 cucharadita de curry en polvo</ingredients>
+    </ingredient>
+    <resum>Uno de sus ingredientes principales, el mijo, es un cereal con un sabor muy suave, que utilizo mucho tanto en platos salados como dulces. Es perfecto para tomarlo en épocas frías, ya que según la medicina tradicional china, es un alimento de naturaleza caliente, y eso significa que al tomarlo, nos aportará calorcito y nos templará el cuerpo.</resum>
+  </cd>
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <time>120"</time>
+    <ingredient>
+    <ingredients>2 calabacines medianos</ingredients>
+    <ingredients>1  cebolla mediana</ingredients>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 diente de ajo</ingredients>
+    <ingredients>½ de cucharadita de canela en polvo</ingredients>
+    <ingredients>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredients>
+    <ingredients>1 taza de arroz negro cocido</ingredients>
+    <ingredients>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredients>
+    <ingredients>sal al gusto</ingredients>
+    <ingredients>Queso mozzarella y parmesano rallado al gusto</ingredients>
+    </ingredient>
+    <resum>El calabacín es una verdura de sabor muy suave como la berenjena, que admite múltiples rellenos. En este caso lo he rellenado de otra hortaliza de temporada, la calabaza, deliciosamente dulce, y de arroz negro o venere.</resum>
+  </cd>
+  <cd>
+    <title>Galletas de avena, rosa y lima</title>
+    <time>180"</time>
+    <ingredient>
+    <ingredients>3/4 taza de harina de avena (80g)</ingredients>
+    <ingredients>1/4 taza de azúcar de coco</ingredients>
+    <ingredients>1/2 cucharada de semillas de lino triturado</ingredients>
+    <ingredients>2 cucharadas de agua</ingredients>
+    <ingredients>4 gotas de esencia de rosa</ingredients>
+    <ingredients>40ml de aceite de oliva virgen extra</ingredients>
+    <ingredients>1/2 lima rallada (solo la piel)</ingredients>
+    <ingredients>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredients>
+    </ingredient>
+    <resum>Son galletas integrales, elaboradas con harina de avena, que he rellenado con una mermelada rápida de frutos rojos, para poder darle ese toque especial.</resum>
+  </cd>
+  <cd>
+    <title>Crema Catalana</title>
+    <time>90"</time>
+    <ingredient>
+    <ingredients>1l de leche entera</ingredients>
+    <ingredients>8 yemas de huevo</ingredients>
+    <ingredients>100g de azucar</ingredients>
+    <ingredients>20g de maicena</ingredients>
+    <ingredients>Azucar para caramelizar</ingredients>
+    <ingredients>1 canela en rama</ingredients>
+    </ingredient>
+    <resum>La crema catalana o crema quemada es una especie de crema pastelera o natilla con una costra crujiente a base de azúcar caramelizado. Dice la leyenda que su invención fue como otros muchos postres debido a un error, cuando en un convento unas monjas quisieron hacer un flan para un obispo que las iba a visitar y como suele ocurrir en algunas ocasiones, no les quedo bien cuajado.</resum>
+  </cd>
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <time>20"</time>
+    <ingredient>
+    <ingredients>4 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla hermosa</ingredients>
+    <ingredients>4 dientes de ajo</ingredients>
+    <ingredients>500g de coliflor</ingredients>
+    <ingredients>2 tazas de caldo vegetal</ingredients>
+    <ingredients>2 cucharadas de levadura nutricional</ingredients>
+    <ingredients>½ taza de leche de almendras</ingredients>
+    <ingredients>sal</ingredients>
+    </ingredient>
+    <resum>Hoy te propongo una deliciosa pasta con salsa de coliflor y pimienta de Jamaica, un plato completamente vegetal y saludable, que yo he preparado con pasta integral de espelta, pero que tú puedes preparar con tu pasta favorita… porque esta salsa combina con cualquiera!</resum>
+  </cd>
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <time>90"</time>
+    <ingredient>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla grande</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>300 g de boniato pelado</ingredients>
+    <ingredients>300 g de coliflor (parte blanca, sin el tronco)</ingredients>
+    <ingredients>500 ml de agua</ingredients>
+    <ingredients>1/2 taza de mijo</ingredients>
+    <ingredients>1/2 taza de lentejas rojas partidas</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>1 cucharadita de sal</ingredients>
+    <ingredients>5 o 6 setas shiitake (unos 100 g)</ingredients>
+    <ingredients>1 taza de leche de almendras sin endulzar</ingredients>
+    <ingredients>1/2 cucharadita de curry en polvo</ingredients>
+    </ingredient>
+    <resum>Uno de sus ingredientes principales, el mijo, es un cereal con un sabor muy suave, que utilizo mucho tanto en platos salados como dulces. Es perfecto para tomarlo en épocas frías, ya que según la medicina tradicional china, es un alimento de naturaleza caliente, y eso significa que al tomarlo, nos aportará calorcito y nos templará el cuerpo.</resum>
+  </cd>
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <time>120"</time>
+    <ingredient>
+    <ingredients>2 calabacines medianos</ingredients>
+    <ingredients>1  cebolla mediana</ingredients>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 diente de ajo</ingredients>
+    <ingredients>½ de cucharadita de canela en polvo</ingredients>
+    <ingredients>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredients>
+    <ingredients>1 taza de arroz negro cocido</ingredients>
+    <ingredients>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredients>
+    <ingredients>sal al gusto</ingredients>
+    <ingredients>Queso mozzarella y parmesano rallado al gusto</ingredients>
+    </ingredient>
+    <resum>El calabacín es una verdura de sabor muy suave como la berenjena, que admite múltiples rellenos. En este caso lo he rellenado de otra hortaliza de temporada, la calabaza, deliciosamente dulce, y de arroz negro o venere.</resum>
+  </cd>
+  <cd>
+    <title>Galletas de avena, rosa y lima</title>
+    <time>180"</time>
+    <ingredient>
+    <ingredients>3/4 taza de harina de avena (80g)</ingredients>
+    <ingredients>1/4 taza de azúcar de coco</ingredients>
+    <ingredients>1/2 cucharada de semillas de lino triturado</ingredients>
+    <ingredients>2 cucharadas de agua</ingredients>
+    <ingredients>4 gotas de esencia de rosa</ingredients>
+    <ingredients>40ml de aceite de oliva virgen extra</ingredients>
+    <ingredients>1/2 lima rallada (solo la piel)</ingredients>
+    <ingredients>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredients>
+    </ingredient>
+    <resum>Son galletas integrales, elaboradas con harina de avena, que he rellenado con una mermelada rápida de frutos rojos, para poder darle ese toque especial.</resum>
+  </cd>
+  <cd>
+    <title>Crema Catalana</title>
+    <time>90"</time>
+    <ingredient>
+    <ingredients>1l de leche entera</ingredients>
+    <ingredients>8 yemas de huevo</ingredients>
+    <ingredients>100g de azucar</ingredients>
+    <ingredients>20g de maicena</ingredients>
+    <ingredients>Azucar para caramelizar</ingredients>
+    <ingredients>1 canela en rama</ingredients>
+    </ingredient>
+    <resum>La crema catalana o crema quemada es una especie de crema pastelera o natilla con una costra crujiente a base de azúcar caramelizado. Dice la leyenda que su invención fue como otros muchos postres debido a un error, cuando en un convento unas monjas quisieron hacer un flan para un obispo que las iba a visitar y como suele ocurrir en algunas ocasiones, no les quedo bien cuajado.</resum>
+  </cd>
+  <cd>
+    <title>Pasta con salsa de coliflor y pimienta de Jamaica</title>
+    <time>20"</time>
+    <ingredient>
+    <ingredients>4 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla hermosa</ingredients>
+    <ingredients>4 dientes de ajo</ingredients>
+    <ingredients>500g de coliflor</ingredients>
+    <ingredients>2 tazas de caldo vegetal</ingredients>
+    <ingredients>2 cucharadas de levadura nutricional</ingredients>
+    <ingredients>½ taza de leche de almendras</ingredients>
+    <ingredients>sal</ingredients>
+    </ingredient>
+    <resum>Hoy te propongo una deliciosa pasta con salsa de coliflor y pimienta de Jamaica, un plato completamente vegetal y saludable, que yo he preparado con pasta integral de espelta, pero que tú puedes preparar con tu pasta favorita… porque esta salsa combina con cualquiera!</resum>
+  </cd>
+  <cd>
+    <title>Mijo cremoso con lentejas, hortalizas y shiitake</title>
+    <time>90"</time>
+    <ingredient>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 cebolla grande</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>300 g de boniato pelado</ingredients>
+    <ingredients>300 g de coliflor (parte blanca, sin el tronco)</ingredients>
+    <ingredients>500 ml de agua</ingredients>
+    <ingredients>1/2 taza de mijo</ingredients>
+    <ingredients>1/2 taza de lentejas rojas partidas</ingredients>
+    <ingredients>2 dientes de ajo</ingredients>
+    <ingredients>1 cucharadita de sal</ingredients>
+    <ingredients>5 o 6 setas shiitake (unos 100 g)</ingredients>
+    <ingredients>1 taza de leche de almendras sin endulzar</ingredients>
+    <ingredients>1/2 cucharadita de curry en polvo</ingredients>
+    </ingredient>
+    <resum>Uno de sus ingredientes principales, el mijo, es un cereal con un sabor muy suave, que utilizo mucho tanto en platos salados como dulces. Es perfecto para tomarlo en épocas frías, ya que según la medicina tradicional china, es un alimento de naturaleza caliente, y eso significa que al tomarlo, nos aportará calorcito y nos templará el cuerpo.</resum>
+  </cd>
+  <cd>
+    <title>Calabacines rellenos de arroz negro y calabaza</title>
+    <time>120"</time>
+    <ingredient>
+    <ingredients>2 calabacines medianos</ingredients>
+    <ingredients>1  cebolla mediana</ingredients>
+    <ingredients>2 cucharadas de aceite de oliva virgen extra</ingredients>
+    <ingredients>1 diente de ajo</ingredients>
+    <ingredients>½ de cucharadita de canela en polvo</ingredients>
+    <ingredients>1 taza de calabaza a cuadritos cocida (al horno o al vapor)</ingredients>
+    <ingredients>1 taza de arroz negro cocido</ingredients>
+    <ingredients>2 cucharadas de nata vegetal de tu elección (yo he utilizado de soja)</ingredients>
+    <ingredients>sal al gusto</ingredients>
+    <ingredients>Queso mozzarella y parmesano rallado al gusto</ingredients>
+    </ingredient>
+    <resum>El calabacín es una verdura de sabor muy suave como la berenjena, que admite múltiples rellenos. En este caso lo he rellenado de otra hortaliza de temporada, la calabaza, deliciosamente dulce, y de arroz negro o venere.</resum>
+  </cd>
+  <cd>
+    <title>Galletas de avena, rosa y lima</title>
+    <time>180"</time>
+    <ingredient>
+    <ingredients>3/4 taza de harina de avena (80g)</ingredients>
+    <ingredients>1/4 taza de azúcar de coco</ingredients>
+    <ingredients>1/2 cucharada de semillas de lino triturado</ingredients>
+    <ingredients>2 cucharadas de agua</ingredients>
+    <ingredients>4 gotas de esencia de rosa</ingredients>
+    <ingredients>40ml de aceite de oliva virgen extra</ingredients>
+    <ingredients>1/2 lima rallada (solo la piel)</ingredients>
+    <ingredients>Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar (opcional)</ingredients>
+    </ingredient>
     <resum>Son galletas integrales, elaboradas con harina de avena, que he rellenado con una mermelada rápida de frutos rojos, para poder darle ese toque especial.</resum>
   </cd>
 </catalog>
