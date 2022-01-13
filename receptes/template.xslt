@@ -11,7 +11,7 @@
   <header>
   <h1>
 			<a href="../index.html">
-				Delicias Kitchen
+				<img src="../imatges/Logo-Delicias.png" alt="Delicias Kitchen"/>
 			</a>
 	</h1>
   </header>
