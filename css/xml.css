@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Indie+Flower&display=swap');
+*{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+.info{
+    display: block;
+    width: 100%;
+    height: 50%;
+}
+.anunci{
+    display:block;
+    float: right;
+    width:15%;
+}
+.anunci a img{
+    height: 100%;
+    vertical-align: middle;
+}
+h1{
+    text-align:center;
+    margin-top: 1%;
+    color: dimgrey;
+    font-size: 2.4vw;
+    margin-bottom: 1%;
+}
+h1 a{
+    text-decoration: none;
+    color: dimgrey;
+    font-size: 2.4vw;
+    font-family:'Amatic SC', cursive;
+}
+h2{
+    font-family: 'Indie Flower', cursive;
+    font-size: 2.3vw;
+}
+aside{
+    width:15%;
+    text-align: center;
+}
+aside *{
+    margin: 1%;
+}
+nav{
+    text-align:center;
+    width: 100%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    background-color:rgb(65, 92, 11);
+    position: -webkit-sticky;
+	position: sticky;
+    top: 0;
+    z-index: 1;
+}
+aside img{
+    width: 90%;
+}
+nav a {
+    color: white;
+    padding-left: 0.9%;
+    padding-right: 0.9%;
+    display: inline-block;
+}
+nav a:hover{
+    color: black;
+}
+a{
+    text-decoration: none;
+    font-family: 'Amatic SC', cursive;
+    font-size: 22px;
+}
+footer a{
+    color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+    display: inline-block;
+}
+footer a:hover{
+    color: greenyellow;
+}
+footer{
+    text-align:center;background-color:black;
+    clear: both;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width:100%;
+    bottom: 0;
+}
+table{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: justify;
+}
+.titols{
+    text-align: left;
+}
+.elements{
+    margin-top: 0.2%;
+    margin-bottom: 0.2%;
+}
+td{
+    padding-left: 0.2%;
+    padding-right: 0.2%;
+}
+tr{
+    background-color: ghostwhite;
+}
+.exemples{
+    background-color: greenyellow;
+}
+header{
+    height: 111px;
+}
